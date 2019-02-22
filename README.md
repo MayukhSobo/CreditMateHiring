@@ -53,7 +53,7 @@ These are the following technical insights that I have got from the EDA.
 
 ### Results
 
-| Algorithm           | Model                                                           | Dimension | Train Accuracy | Test Accuracy |
+| Algorithm           | Model                                                           | Dimension | Train Accuracy | Validation Accuracy |
 |---------------------|-----------------------------------------------------------------|-----------|----------------|---------------|
 | Logistic Regression | Upto 3grams BOW                                                 | 10339     | 0.924274       | 0.895182      |
 | Logistic Regression | Upto 3grams BOW + Engineered Features                           | 10342     | 0.923858       | 0.895895      |
